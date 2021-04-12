@@ -45,9 +45,9 @@ Matrix::Matrix() {
 
 
 /******************************************************************************
- |  Konstruktor parametryczny klasy Matrix.                                              |
+ |  Konstruktor parametryczny klasy Matrix.                                   |
  |  Argumenty:                                                                |
- |      tmp - dwuwymiarowa tablica z elementami typu double.                               |
+ |      tmp - dwuwymiarowa tablica z elementami typu double.                  |
  |  Zwraca:                                                                   |
  |      Macierz wypelniona wartosciami podanymi w argumencie.                 |
  */
